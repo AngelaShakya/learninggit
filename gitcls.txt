@@ -1,2 +1,1 @@
-nochu
-kookie
+we are doing git
